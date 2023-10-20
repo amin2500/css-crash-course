@@ -1,0 +1,10 @@
+.red{
+    color: red;
+}
+.green{
+    color: green; 
+}
+section{
+    height:80vh;
+    border: 1px solid black;
+}
